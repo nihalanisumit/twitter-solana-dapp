@@ -220,9 +220,9 @@ export const colors = {
     900: '#003f5e',
   },
   brand: {
-    background: '#0d0415',
-    primary: '#460fe8',
-    secondary: '#c7b2ff',
+    background: '#000',
+    primary: '#e7e9ea',
+    secondary: '#71767b',
     complementary: '#04ca8e',
     success: '#54A452',
     error: '#BB2222',
